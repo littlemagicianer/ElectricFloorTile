@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LTC3588IMSE-1_TRPBF")(type "KiCad")(uri "/Users/akshobhya/Downloads/LTC3588IMSE-1_TRPBF")(options "")(descr ""))
+  (lib (name "FM25W256-G")(type "KiCad")(uri "/Users/akshobhya/Downloads/FM25W256-G")(options "")(descr ""))
+  (lib (name "ESP32-WROOM-32")(type "KiCad")(uri "/Users/akshobhya/Downloads/ESP32-WROOM-32")(options "")(descr ""))
+  (lib (name "1-640454-5")(type "KiCad")(uri "/Users/akshobhya/Downloads/1-640454-5")(options "")(descr ""))
+)

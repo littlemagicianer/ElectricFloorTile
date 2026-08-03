@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LTC3588IMSE-1_TRPBF")(type "KiCad")(uri "/Users/akshobhya/Downloads/LTC3588IMSE-1_TRPBF/LTC3588IMSE-1_TRPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP-WROOM-32")(type "KiCad")(uri "/Users/akshobhya/Downloads/ESP-WROOM-32/ESP-WROOM-32.kicad_sym")(options "")(descr ""))
+  (lib (name "FM25W256-G")(type "KiCad")(uri "/Users/akshobhya/Downloads/FM25W256-G/FM25W256-G.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-WROOM-32")(type "KiCad")(uri "/Users/akshobhya/Downloads/ESP32-WROOM-32/ESP32-WROOM-32.kicad_sym")(options "")(descr ""))
+)
